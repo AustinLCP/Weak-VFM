@@ -1,0 +1,30 @@
+{
+  "images": [
+    {"id": 0, "file_name": "000000.png", "width": 1224, "height": 370},
+    {"id": 1, "file_name": "000001.png", "width": 1242, "height": 375}
+  ],
+
+  "annotations": [
+    {"id": 0, "image_id": 0, "category_id": 8, "bbox": [712.4, 143.0, 98.33000000000004, 164.92000000000002], "area": 16216.583600000009, "iscrowd": 0},
+    {"id": 1, "image_id": 1, "category_id": 2, "bbox": [599.41, 156.4, 30.340000000000032, 32.849999999999994], "area": 996.6690000000009, "iscrowd": 0},
+    {"id": 2, "image_id": 1, "category_id": 1, "bbox": [387.63, 181.54, 36.18000000000001, 21.580000000000013], "area": 780.7644000000006, "iscrowd": 0},
+    {"id": 3, "image_id": 1, "category_id": 10, "bbox": [676.6, 163.95, 12.379999999999995, 29.980000000000018], "area": 371.1524000000001, "iscrowd": 0}
+  ],
+
+  "categories": [
+    {"id": 1, "name": "Car"},
+    {"id": 2, "name": "Truck"},
+    {"id": 3, "name": "trailer"},
+    {"id": 4, "name": "bus"},
+    {"id": 5, "name": "construction_vehicle"},
+    {"id": 6, "name": "bicycle"},
+    {"id": 7, "name": "motorcycle"},
+    {"id": 8, "name": "Pedestrian"},
+    {"id": 9, "name": "traffic_cone"},
+    {"id": 10, "name": "Cyclist"},
+    {"id": 11, "name": "Van"},
+    {"id": 12, "name": "Person_sitting"},
+    {"id": 13, "name": "tractor"},
+    {"id": 13, "name": "car"}
+  ]
+}

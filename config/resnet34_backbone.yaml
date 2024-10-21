@@ -1,0 +1,11 @@
+EXP_NAME : "WeakM3D"
+NET_LAYER : 34
+
+TRAIN:
+    BATCH_SIZE: 8
+    WORKS: 4
+    SAMPLE_ROI_POINTS: 100
+
+    # TRAIN_FILE: 'data/kitti/data_file/split/train_raw.txt'
+    # WEIGHT_FILE: 'data/kitti/data_file/kitti_3d_training_weight.txt'
+
